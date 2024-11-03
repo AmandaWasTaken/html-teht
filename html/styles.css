@@ -1,6 +1,6 @@
-.body {
+body {
 	background-color: #1d2029;
-	font-family: 	
+	font-family: "Readex Pro";	
 }
 
 .navi {
@@ -22,7 +22,7 @@
 	font-size: 	20px;
 }
 
-.navi a.active{
+.navi a.active {
 	background-color: #242d5c;
 	color: 		white;
 	overflow: 	hidden;
